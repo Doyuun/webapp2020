@@ -1,0 +1,12 @@
+iducs/jsp202012045/webapp2020/HelloApplication.java
+ iducs.jsp202012045.webapp2020.HelloApplication
+iducs/jsp202012045/webapp2020/HelloResource.java
+ iducs.jsp202012045.webapp2020.HelloResource
+iducs/jsp202012045/webapp2020/HelloServlet.java
+ iducs.jsp202012045.webapp2020.HelloServlet
+iducs/jsp202012045/OurServlet.java
+ iducs.jsp202012045.OurServlet
+iducs/jsp202012045/ServletContextTester.java
+ iducs.jsp202012045.ServletContextTester
+iducs/jsp202012045/ResponsiveForm.java
+ iducs.jsp202012045.ResponsiveForm
